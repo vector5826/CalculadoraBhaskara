@@ -1,2 +1,2 @@
-# CalculadoraBhaskara
- Calculadora De Bhaskara Aula De Sexta
+# Calculadora Bhaskara
+ Projeto De Calculadora Bhaskara Aula De Sexta
